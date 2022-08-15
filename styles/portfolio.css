@@ -88,11 +88,10 @@ p {
     padding: 0;
     text-align: center;
   }
-}
-
 .about-section {
-  text-align: center;
-  padding: 0;
+    text-align: center;
+    padding: 0;
+}
 }
 
 .about-section h1{
@@ -110,3 +109,4 @@ p {
 .about-section-content {
   margin: 30px;
 }
+
