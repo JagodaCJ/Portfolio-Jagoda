@@ -30,7 +30,7 @@ p {
   line-height: 30px;
 }
 
-h4 {
+h {
   font-size: 26px;
 }
 
@@ -93,7 +93,7 @@ h4 {
     text-align: center;
   }
   .content-container {
-    padding: 160px 20px;
+    padding: 60px 20px;
   }
 }
 
